@@ -1,3 +1,6 @@
+Front End Course LUT
+Mikko Talonpoika
+
 Course Project has three HTML pages. One CSS-file in its own folder. And one Javascript file in its own Folder.
 All other links works on the except "Get Started" links on home page under Pricing.
 Also Social media and contact links on footer are not working.
